@@ -1,5 +1,5 @@
 
-##Class Pet static class Pet { A static nested class that represents each pet.
+Class Pet static class Pet { A static nested class that represents each pet.
 
 "Contains attributes: id, name, type, and age."
 
@@ -54,4 +54,6 @@ int id = Integer.parseInt(scanner.nextLine()); if (pets.remove(id) != null) { Sy
 📃 listPets()
 
 if (pets.isEmpty()) { System.out.println("No pets available for adoption."); } for (Pet pet : pets.values()) { System.out.println(pet); } Lists all pets currently in the system.
+
+That was a quite difficult task to do because of restoring information and updating for the rest i could use if conditions 
 
