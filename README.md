@@ -23,3 +23,13 @@ To simulate real-world use cases of adoption centers where tracking and maintain
 To prepare a flexible codebase that can be extended with features like search, filtering, and persistent storage in future iterations.
 
 This project not only demonstrates the application of Java programming skills but also emphasizes practical problem-solving in a real-life context. It is intended to be both educational and functional, giving the student hands-on experience in software development and user interaction.
+
+Practice and apply object-oriented programming principles using Java.
+
+Develop a user-friendly system that supports basic CRUD (Create, Read, Update, Delete) operations.
+
+Enable real-time management of pet information through an interactive menu-driven interface.
+
+Simulate a real-world application scenario, such as how shelters or adoption centers might manage their pet listings.
+
+Lay the groundwork for future improvements, such as adding persistent storage, search features, or even a graphical user interface.
