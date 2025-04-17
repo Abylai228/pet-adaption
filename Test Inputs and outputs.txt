@@ -1,0 +1,161 @@
+INPUT
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+
+
+OUTPUT
+
+Choose an option: 1
+Enter pet name: dem
+Enter pet type (e.g., Dog, Cat): dog
+Enter pet age: 4
+? Pet added successfully!
+
+INPUT
+
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+
+OUTPUT
+
+Choose an option: 1
+Enter pet name: kelly
+Enter pet type (e.g., Dog, Cat): dog
+Enter pet age: 3
+? Pet added successfully!
+
+INPUT
+
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+Choose an option: 4
+
+OUTPUT
+
+Available Pets:
+Pet ID: 1, Name: dem, Type: dog, Age: 4
+Pet ID: 2, Name: kelly, Type: dog, Age: 3
+
+INPUT
+
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+
+OUTPUT
+Choose an option: 1
+Enter pet name: Miron
+Enter pet type (e.g., Dog, Cat): snake
+Enter pet age: 1
+? Pet added successfully!
+
+INPUT
+
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+
+OUTPUT
+Choose an option: 5
+Enter pet name to search: Miron
+Pet ID: 3, Name: Miron, Type: snake, Age: 1
+
+INPUT
+
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+
+OUTPUT
+
+
+Choose an option: 7     
+Enter minimum age: 1
+Enter maximum age: 5
+Pet ID: 1, Name: kelly, Type: dog, Age: 4
+Pet ID: 2, Name: kelly, Type: dog, Age: 3
+Pet ID: 3, Name: Miron, Type: snake, Age: 1
+
+INPUT
+
+? Pet Adoption System
+1. Add Pet
+2. Update Pet
+3. Remove Pet
+4. List All Pets
+5. Search Pet by Name
+6. Search Pet by Type
+7. List Pets by Age Range
+8. Count Total Pets
+9. Sort Pets by Age
+10. Clear All Pet Records
+11. Exit
+
+OUTPUT
+
+
+Choose an option: 2
+Enter pet ID to update: 1
+Enter new name (leave blank to keep current): Nico
+Enter new type (leave blank to keep current): Eagle
+Enter new age (-1 to keep current): 3
+? Pet updated successfully! 
+
+I TESTED EVERY FUNCTION AND EVERYTHING WORKS GREAT 
