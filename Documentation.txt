@@ -1,5 +1,3 @@
-https://www.jdoodle.com/online-java-compiler (A comiler)
-
 
 Class Pet static class Pet { A static nested class that represents each pet.
 
